@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  LogQ.cpp
+g:\practice\c++\logq\logq\logq.cpp(19): warning C4273: “SaveToFile”: dll 链接不一致
+  g:\practice\c++\logq\logq\logq.h(13): note: 参见“SaveToFile”的前一个定义
+  publicFunc.cpp
+  正在生成代码...
+    正在创建库 G:\practice\C++\LogQ\Win32\Debug_v141\LogQ.lib 和对象 G:\practice\C++\LogQ\Win32\Debug_v141\LogQ.exp
+  LogQ.vcxproj -> G:\practice\C++\LogQ\Win32\Debug_v141\LogQ.dll
